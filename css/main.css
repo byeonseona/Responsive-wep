@@ -97,7 +97,7 @@ header h1 a img{width: 100%;}
 .elemental{margin: 50px 0;background: url(../img/elemental-bg.png); background-repeat: no-repeat;width: 100%;height: auto;background-size : 100% 70%;}
 .elemental h2{width: 40%;margin: auto;padding-bottom: 20px;}
 .elemental img{width: 70%;margin: auto;}
-.elemental p{font-family: 'Noto Sans KR', sans-serif;font-size: 0.875em;color: #333;padding-top: 20px;padding-bottom: 20px;line-height:1.5;}
+.elemental p{font-family: 'Noto Sans KR', sans-serif;font-size: 0.875em;color: #333;padding-top: 20px;padding-bottom: 20px;line-height:1.5;width: 90%;margin: auto;text-align: center;}
 
 .btn{width: 90px;height: 33px;border: 1px solid #333;text-align: center;line-height: 30px;color: #333;border-radius: 5px;font-family: 'Noto Sans KR', sans-serif;margin: auto;font-size: 0.875em;transition: all 0.4s;}
 .btn:hover{background:#F46464;color: #fff;border:1px solid #F46464}
@@ -114,7 +114,7 @@ header h1 a img{width: 100%;}
 .new-releases ul li a{width: 54%;margin: 4px;}
 .new-releases ul li .left{margin-left: 43%;}
 .new-releases ul li a img{width: 100%;}
-.new-text{font-family: 'Noto Sans KR', sans-serif;font-size: 0.875em;color: #666;padding-top: 20px;line-height:1.5;}
+.new-text{font-family: 'Noto Sans KR', sans-serif;font-size: 0.875em;color: #666;padding-top: 20px;line-height:1.5;width: 90%;margin: 10px auto;text-align: center;}
 
 .btn5{font-size:0.813em;font-family: 'Montserrat', sans-serif;color:  #777777;width: 90px;height: 33px;line-height: 30px;border: 1px solid  #777;border-radius: 5px;margin: 20px auto;text-align: center;transition: all 0.4s;}
 .btn5:hover{background:#F46464;color: #fff;border:1px solid #F46464}
